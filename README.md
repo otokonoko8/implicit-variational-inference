@@ -5,5 +5,4 @@
 4. [Kernel Implicit Variational Inference](https://arxiv.org/abs/1705.10119)
 5. [Semi-Implicit Variational Inference](https://arxiv.org/abs/1805.11183)
 6. [Unbiased Implicit Variational Inference](https://arxiv.org/abs/1808.02078)
-7. [Variational Autoencoder with Implicit Optimal Priors](https://arxiv.org/abs/1809.05284)
-8. [Doubly Semi-Implicit Variational Inference](https://arxiv.org/abs/1810.02789)
+7. [Doubly Semi-Implicit Variational Inference](https://arxiv.org/abs/1810.02789)
