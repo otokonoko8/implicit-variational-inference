@@ -1,4 +1,6 @@
-### implicit-distribution-variational-inference-papers
+
+*A collection of paper about variational inference using implicit distribution, data simulation only, as prior or/and posterior*
+
 1. [Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks](https://arxiv.org/abs/1701.04722)
 2. [Variational Inference Using Implicit Distributions](https://arxiv.org/abs/1702.08235)
 3. [Hierarchical Implicit Models and Likelihood-Free Variational Inference](https://arxiv.org/abs/1702.08896)
