@@ -1,5 +1,5 @@
 # implicit-distribution-variational-inference-paper
-*The collection of paper about variational inference using implicit prior and posterior distributions.
+*The collection of paper about variational inference using implicit prior and posterior distributions.*
 
 1. [Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks](https://arxiv.org/abs/1701.04722)
 2. [Variational Inference Using Implicit Distributions](https://arxiv.org/abs/1702.08235)
