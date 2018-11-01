@@ -18,7 +18,7 @@
 5. [Variational Inference based on Robust Divergences](https://arxiv.org/abs/1710.06595) 
 6. [Alpha-Beta Divergence For Variational Inference](https://arxiv.org/abs/1805.01045)
 7. [Wasserstein Variational Inference](https://arxiv.org/abs/1805.11284)
-8. [Variational Inference with Tail-adaptive f-Divergence](https://arxiv.org/abs/18010.11943)
+8. [Variational Inference with Tail-adaptive f-Divergence](https://arxiv.org/abs/1810.11943)
 
 ### Partilcle-based Variational Inference and Applications
 1. [Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm](https://arxiv.org/abs/1608.04471v2)
