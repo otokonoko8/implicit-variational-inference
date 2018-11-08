@@ -32,7 +32,7 @@
 9. [Particle Optimization in Stochastic Gradient MCMC](https://arxiv.org/abs/1711.10927)
 10. [Riemannian Stein Variational Gradient Descent for Bayesian Inference](https://arxiv.org/abs/1711.11216)
 11. [Stein Points](https://arxiv.org/abs/1803.10161)
-12. [Frank-Wolfe Stein Sampling](https://arxiv.org/abs/1805.07913)
+12. [Frank-Wolfe Stein Sampling](https://arxiv.org/abs/1805.07912)
 13. [A Unified Particle-optimization Framework for Scalable Bayesian Sampling](https://arxiv.org/abs/1805.11659)
 14. [Stein Variational Gradient Descent Without Gradient](https://arxiv.org/pdf/1806.02775.pdf)
 15. [A Stein variational Newton method](https://arxiv.org/abs/1806.03085)
