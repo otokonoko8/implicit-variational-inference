@@ -20,6 +20,15 @@
 7. [Wasserstein Variational Inference](https://arxiv.org/abs/1805.11284)
 8. [Variational Inference with Tail-adaptive f-Divergence](https://arxiv.org/abs/1810.11943)
 
+### Variational Inference with Normalizing Flows
+1. [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)
+2. [Improved Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/abs/1606.04934)
+3. [Improving Variational Auto-Encoders using Householder Flow](https://arxiv.org/abs/1611.09630)
+4. [Variational Inference with Orthogonal Normalizing Flows](http://bayesiandeeplearning.org/2017/papers/51.pdf)
+5. [Improving Variational Auto-Encoders using Convex Combination Linear Inverse Autoregressive Flow](https://arxiv.org/abs/1706.02326)
+6. [Convolutional Normalizing Flows](http://arxiv.org/abs/1711.02255)
+7. [Sylvester Normalizing Flows for Variational Inference](https://arxiv.org/abs/1803.05649)
+
 ### Partilcle-based Variational Inference and Applications
 1. [Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm](https://arxiv.org/abs/1608.04471v2)
 2. [Stein Variational Policy Gradient](https://arxiv.org/abs/1704.02399)
