@@ -9,6 +9,7 @@
 5. [Semi-Implicit Variational Inference](https://arxiv.org/abs/1805.11183)
 6. [Unbiased Implicit Variational Inference](https://arxiv.org/abs/1808.02078)
 7. [Doubly Semi-Implicit Variational Inference](https://arxiv.org/abs/1810.02789)
+8. [Stein Neural Sampler](https://arxiv.org/abs/1810.03545)
 
 ### Variational Inference with Alternative Divergences 
 1. [Black-Box α-Divergence Minimization](https://arxiv.org/abs/1511.03243)
@@ -18,7 +19,8 @@
 5. [Variational Inference based on Robust Divergences](https://arxiv.org/abs/1710.06595) 
 6. [Alpha-Beta Divergence For Variational Inference](https://arxiv.org/abs/1805.01045)
 7. [Wasserstein Variational Inference](https://arxiv.org/abs/1805.11284)
-8. [Variational Inference with Tail-adaptive f-Divergence](https://arxiv.org/abs/1810.11943)
+8. [Stein Neural Sampler](https://arxiv.org/abs/1810.03545)
+9. [Variational Inference with Tail-adaptive f-Divergence](https://arxiv.org/abs/1810.11943)
 
 ### Variational Inference with Normalizing Flows
 1. [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)
