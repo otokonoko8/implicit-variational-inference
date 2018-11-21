@@ -50,3 +50,4 @@
 16. [Stochastic Particle-optimization Sampling and the Non-asymptotic Convergence Theory](https://arxiv.org/abs/1809.01293)
 17. [Stein Variational Gradient Descent as Moment Matching](https://arxiv.org/abs/1810.11693)
 18. [Wasserstein Variational Gradient Descent: From Semi-discrete Optimal Transport to Ensemble Variational Inference](https://arxiv.org/abs/1811.02827)
+19. [Variance Reduction in Stochastic Particle-optimization Sampling](https://arxiv.org/abs/1811.08052)
