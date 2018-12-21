@@ -47,7 +47,8 @@
 13. [A Unified Particle-optimization Framework for Scalable Bayesian Sampling](https://arxiv.org/abs/1805.11659)
 14. [Stein Variational Gradient Descent Without Gradient](https://arxiv.org/pdf/1806.02775.pdf)
 15. [A Stein variational Newton method](https://arxiv.org/abs/1806.03085)
-16. [Stochastic Particle-optimization Sampling and the Non-asymptotic Convergence Theory](https://arxiv.org/abs/1809.01293)
-17. [Stein Variational Gradient Descent as Moment Matching](https://arxiv.org/abs/1810.11693)
-18. [Wasserstein Variational Gradient Descent: From Semi-discrete Optimal Transport to Ensemble Variational Inference](https://arxiv.org/abs/1811.02827)
-19. [Variance Reduction in Stochastic Particle-optimization Sampling](https://arxiv.org/abs/1811.08052)
+16. [Accelerated First-order Methods on the Wasserstein Space for Bayesian Inference]
+17. [Stochastic Particle-optimization Sampling and the Non-asymptotic Convergence Theory](https://arxiv.org/abs/1809.01293)
+18. [Stein Variational Gradient Descent as Moment Matching](https://arxiv.org/abs/1810.11693)
+19. [Wasserstein Variational Gradient Descent: From Semi-discrete Optimal Transport to Ensemble Variational Inference](https://arxiv.org/abs/1811.02827)
+20. [Variance Reduction in Stochastic Particle-optimization Sampling](https://arxiv.org/abs/1811.08052)
