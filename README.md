@@ -52,3 +52,4 @@
 18. [Stein Variational Gradient Descent as Moment Matching](https://arxiv.org/abs/1810.11693)
 19. [Wasserstein Variational Gradient Descent: From Semi-discrete Optimal Transport to Ensemble Variational Inference](https://arxiv.org/abs/1811.02827)
 20. [Variance Reduction in Stochastic Particle-optimization Sampling](https://arxiv.org/abs/1811.08052)
+21. [Projected Stein Variational Newton: A Fast and Scalable Bayesian Inference Method in High Dimensions](https://arxiv.org/abs/1901.08659)
