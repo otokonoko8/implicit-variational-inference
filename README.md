@@ -53,3 +53,4 @@
 19. [Wasserstein Variational Gradient Descent: From Semi-discrete Optimal Transport to Ensemble Variational Inference](https://arxiv.org/abs/1811.02827)
 20. [Variance Reduction in Stochastic Particle-optimization Sampling](https://arxiv.org/abs/1811.08052)
 21. [Projected Stein Variational Newton: A Fast and Scalable Bayesian Inference Method in High Dimensions](https://arxiv.org/abs/1901.08659)
+22. [Understanding MCMC Dynamics as Flows on the Wasserstein Space](https://arxiv.org/abs/1902.00282)
