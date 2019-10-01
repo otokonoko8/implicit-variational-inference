@@ -21,6 +21,8 @@
 7. [Wasserstein Variational Inference](https://arxiv.org/abs/1805.11284)
 8. [Stein Neural Sampler](https://arxiv.org/abs/1810.03545)
 9. [Variational Inference with Tail-adaptive f-Divergence](https://arxiv.org/abs/1810.11943)
+10. [Adversarial α-divergence Minimization for Bayesian Approximate Inference](https://arxiv.org/abs/1909.06945)
+11. [Refined α-Divergence Variational Inference via Rejection Sampling](https://arxiv.org/abs/1909.07627)
 
 ### Variational Inference with Normalizing Flows
 1. [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)
@@ -54,3 +56,7 @@
 20. [Variance Reduction in Stochastic Particle-optimization Sampling](https://arxiv.org/abs/1811.08052)
 21. [Projected Stein Variational Newton: A Fast and Scalable Bayesian Inference Method in High Dimensions](https://arxiv.org/abs/1901.08659)
 22. [Understanding MCMC Dynamics as Flows on the Wasserstein Space](https://arxiv.org/abs/1902.00282)
+23. [A Stochastic Version of Stein Variational Gradient Descent for Efficient Sampling](https://arxiv.org/abs/1902.03394) 
+24. [Stein Point Markov Chain Monte Carlo](https://arxiv.org/abs/1905.03673)
+25. [Nonlinear Stein Variational Gradient Descent for Learning Diversified Mixture Models](http://proceedings.mlr.press/v97/wang19h/wang19h.pdf)
+26. [Quantile Stein Variational Gradient Descent for Batch Bayesian Optimization](http://proceedings.mlr.press/v97/gong19b/gong19b.pdf)
