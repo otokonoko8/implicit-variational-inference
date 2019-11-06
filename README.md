@@ -60,3 +60,4 @@
 24. [Stein Point Markov Chain Monte Carlo](https://arxiv.org/abs/1905.03673)
 25. [Nonlinear Stein Variational Gradient Descent for Learning Diversified Mixture Models](http://proceedings.mlr.press/v97/wang19h/wang19h.pdf)
 26. [Quantile Stein Variational Gradient Descent for Batch Bayesian Optimization](http://proceedings.mlr.press/v97/gong19b/gong19b.pdf)
+27. [Stein Vriational Gradient Descent with Matrix-valued Kernels](https://arxiv.org/abs/1910.12794)
